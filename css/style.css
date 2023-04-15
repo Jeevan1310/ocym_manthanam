@@ -8229,8 +8229,8 @@ h1, h2, h3, h4, h5,
         color: #ffd615; }
 
 .navbar-brand {
-  font-size: 40px;
-  font-family: "Great Vibes", cursive; }
+  font-size: auto;
+  font-family: auto; }
   .navbar-brand span {
     color: #ffd615; }
 
